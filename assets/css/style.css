@@ -107,6 +107,7 @@ a {
     margin: 18px;
     font-size: 18px;
     line-height: 150%;
+    text-align: justify;
 }
 
 #contact-form {
@@ -123,6 +124,7 @@ a {
     margin: 24px 0 0 0;
     border-top: 8px solid #4aaaa5;
     clear: both;
+    width: 100%;
 }
 
 #about-me,
