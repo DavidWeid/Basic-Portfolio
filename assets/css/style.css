@@ -49,7 +49,7 @@ a {
     border-bottom: 1px solid #cccccc;
     margin: 0 auto;
     margin-bottom: 20px;
-    width: 960px;
+    max-width: 960px;
     height: 74px;
 }
 
@@ -111,7 +111,7 @@ a {
     background: #ffffff;
     border-color: #dddddd;
     border: 2px solid;
-    width: 960px;
+    max-width: 960px;
     margin: 0 auto;
     clear: both;
 }
@@ -234,7 +234,7 @@ input[type="text"] {
     color: #dddddd;
     text-align: center;
     padding: 20px;
-    margin: 24px 0 0 0;
+    margin: 24px 0 0 0 auto;
     border-top: 8px solid #4aaaa5;
     clear: both;
     width: 100%;
